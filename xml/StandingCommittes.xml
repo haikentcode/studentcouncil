@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COMMITTEE>
+  <STEERING>
+    <BODY>The Head of this committee shall be a final year senator and members from 2nd and 3rd Year selected by the head and ratified by the senate.</BODY>
+	
+    <AIM>
+	<i>It shall be responsible for publishing and circulating the minutes of Students’ Council and Students’ Senate meeting.</i>
+	<ii>It shall work in coordination with authorities to communicate with students body regarding important information (Notices, Fest Invitations etc.)</ii>
+	<iii>It shall maintain record of the applications submitted.</iii>
+	<iv>It shall publish a semester report of the functioning of Students' Council.</iv>
+	
+	</AIM>
+	
+  </STEERING>
+   
+   <HOSTELAFFAIRS>
+   <BODY>
+   The Head of this committee shall be a final year senator and members from 2nd and 3rd Year selected by the head and ratified by the senate
+   </BODY>
+    <AIM>
+	<i>This committee shall keep in touch with authorities to suggest measures to improve Academics related activities (Library, Departmental Library, Educational Tours, and Placements etc.)</i>
+	<ii>This committee shall play an advisory role in academics affairs</ii>
+	</AIM>
+   </HOSTELAFFAIRS>
+    
+   <ACADEMICAFFAIRS>
+   <BODY>The Head of this committee shall be a final year senator and members from 2nd and 3rd Year selected by the head and ratified by the senate</BODY>
+    <AIM>
+	<i>It shall prepare a monthly report of each hostel and submit it to DSW, Chief Warden and Warden</i>
+	<ii>It shall suggest measures to Warden and Chief Warden to improve Hostel functioning and amenities</ii>
+	
+	<iii>It could call meetings with hostel committees to improve coordination</iii>
+	
+	<iv>It shall contact Warden and Chief Warden if hostel committees are found to be inactive</iv>
+	
+	</AIM>
+   </ACADEMICAFFAIRS>
+   
+   <CAMPUSAMENITIES>
+   <BODY>The Head of this committee shall be a final year senator and members from 2nd and 3rd Year selected by the head and ratified by the senate</BODY>
+    <AIM>
+	<i>i.	It shall suggest DSW and Chairman, Campus Amenities regarding necessary amenities to be provided in campus</i>
+	<ii>ii.	It shall look after amenities provided in the campus and inform DSW and Chairman, Campus Amenities in case of poor facilities</ii>
+	
+	</AIM>
+   </CAMPUSAMENITIES>
+   
+   <DISCIPLINE>
+   <BODY>
+   i.	The Head of this committee shall be a     final year senator and members from 2nd and 3rd Year selected by the head and ratified by the senate. 
+ii.	Members suggested by technical affairs to be ratified by Proctor.
+
+   </BODY>
+    <AIM>
+	<i>It shall be help in maintaining Discipline and Decorum of the Institute</i>
+	
+	<li>ii.	It shall report to proctor in cases of indiscipline</li>
+	<iii>
+	Members selected from technical affairs shall help in maintaining discipline during Techniti (Technical Festival of NIT Jalandhar)
+	</iii>
+	</AIM>
+   </DISCIPLINE>
+   	
+</COMMITTEE>
